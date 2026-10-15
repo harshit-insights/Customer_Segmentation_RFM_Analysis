@@ -138,4 +138,4 @@ Project_4_Customer_Segmentation_RFM/
 
 ## Author
 
-**Harshit Tiwari**, Data Science Intern at Unified Mentor, Gorakhpur, India.
+**Harshit Tiwari**,Gorakhpur, India.
