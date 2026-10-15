@@ -4,6 +4,10 @@ venv/
 
 # raw dataset (large, download separately)
 data/online_retail_II.csv
+# cleaned dataset (large, download separately)
+data/cleaned_online_retail_II.csv
+# RFM base dataset (large, download separately)
+data/rfm_base_online_retail_II.csv
 
 # notebook / editor files
 .ipynb_checkpoints/
