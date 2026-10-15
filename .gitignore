@@ -1,0 +1,15 @@
+# virtual environment
+venv/
+.venv/
+
+# raw dataset (large, download separately)
+data/online_retail_II.csv
+
+# notebook / editor files
+.ipynb_checkpoints/
+__pycache__/
+.vscode/
+.DS_Store
+
+# Power BI temporary files
+*.pbix.tmp

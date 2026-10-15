@@ -1,0 +1,7 @@
+Segment,CostPerCustomer,IncrementalResponse
+Champions,3.0,0.02
+Loyal,3.0,0.05
+At Risk,3.0,0.12
+Lost / Hibernating,3.0,0.02
+New / Promising,3.0,0.08
+Needs Attention,3.0,0.05
